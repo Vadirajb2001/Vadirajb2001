@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vadirajb2001
 - 👀 I’m interested in coding and singing
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Vadirajb2001/Vadirajb2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
